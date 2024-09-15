@@ -1,5 +1,5 @@
 # Сулейманов Руслан
-<audio controls>
+<audio controls autoplay>
     <source src="https://raw.githubusercontent.com/asasxa/Ruslan_Suleimanov/main/9218123.mp3" type="audio/mpeg">
     Включите что бы было веселее
 </audio>
