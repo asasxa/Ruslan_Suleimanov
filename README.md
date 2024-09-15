@@ -1,7 +1,7 @@
 # Сулейманов Руслан
 ![[https://dl2.mp3party.net/online/9218123.mp3]]
 <kbd>
-![I](https://github.com/asasxa/Ruslan_Suleimanov/DSC00090.jpg "Сулейманов Руслан")
+![I](https://github.com/asasxa/Ruslan_Suleimanov/blob/main/DSC00090.jpg "Сулейманов Руслан")
 <kbd>
 
 ## мой стек:
@@ -18,5 +18,5 @@
 
 ## Полученные сертификаты обучения
 <kbd>
-![Python](https://github.com/asasxa/Ruslan_Suleimanov/Python.jpeg "Сертефикат курса поколение пайтон")
+![Python](https://github.com/asasxa/Ruslan_Suleimanov/blob/main/Python.jpeg "Сертефикат курса поколение пайтон")
 <kbd>
