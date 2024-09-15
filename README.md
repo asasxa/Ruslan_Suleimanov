@@ -1,9 +1,9 @@
 # Сулейманов Руслан
 <audio controls>
      <source src="https://dl2.mp3party.net/online/9218123.mp3" type="audio/mpeg">
-   </audio>
+</audio>
 
-<img src="https://github.com/asasxa/Ruslan_Suleimanov/blob/main/DSC00090.jpg" width="400" height="600">
+<img src="https://raw.githubusercontent.com/asasxa/Ruslan_Suleimanov/main/DSC00090.jpg" width="400" height="600">
 
 ## мой стек:
 
@@ -13,12 +13,10 @@
 
 ## Дополнительные умения и опыт:
 
-    > Работал технологом-разработчиком на кондитерской фабрике 
+> Работал технологом-разработчиком на кондитерской фабрике 
 
-    > Диплом бакалавра по специальности "Технология продукции общественного питания"
+> Диплом бакалавра по специальности "Технология продукции общественного питания"
 
 ## Полученные сертификаты за обучение
 
-
-![Python](https://github.com/asasxa/Ruslan_Suleimanov/blob/main/Python.jpeg "Сертификат курса поколение пайтон")
-
+![Python](https://raw.githubusercontent.com/asasxa/Ruslan_Suleimanov/main/Python.jpeg "Сертификат курса поколение пайтон")
