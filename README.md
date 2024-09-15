@@ -1,6 +1,7 @@
 # Сулейманов Руслан
 <audio controls>
-     <source src="https://dl2.mp3party.net/online/9218123.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/asasxa/Ruslan_Suleimanov/main/9218123.mp3" type="audio/mpeg">
+    Включите что бы было веселее
 </audio>
 
 <img src="https://raw.githubusercontent.com/asasxa/Ruslan_Suleimanov/main/DSC00090.jpg" width="400" height="600">
