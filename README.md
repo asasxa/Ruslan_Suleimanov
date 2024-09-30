@@ -19,5 +19,4 @@
 > Диплом бакалавра по специальности "Технология продукции общественного питания"
 
 ## Полученные сертификаты за обучение
-
-![Python](https://raw.githubusercontent.com/asasxa/Ruslan_Suleimanov/main/Python.jpeg "Сертификат курса поколение пайтон")
+[Мой профиль на платформе Stepik.org](https://stepik.org/users/768149665/profile)
